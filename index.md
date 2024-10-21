@@ -1,5 +1,3 @@
-title: null
-
 # Instant Classic
 {: .no_toc}
 
