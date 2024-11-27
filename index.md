@@ -12,4 +12,4 @@ Fingerprints of the Classical style and pitfalls to avoid in your Composition 1.
 
 <audio controls><source src="m/haydn1.mp3"></audio>
 
-<img 
+<img width="400" src="m/haydn1.png">
