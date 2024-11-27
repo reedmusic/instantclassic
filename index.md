@@ -10,9 +10,6 @@ Fingerprints of the Classical style and pitfalls to avoid in your Composition 1.
 
 ## Heading
 
-<audio>
-<source src="m/haydn1.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
+<audio controls><source src="m/haydn1.mp3"></audio>
 
-![](m/haydn1.png)
+<img 
